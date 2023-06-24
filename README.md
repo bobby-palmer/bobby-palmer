@@ -1,14 +1,4 @@
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/bobby-palmer-497691266/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=bobby-palmer&style=flat-square&color=blue" alt=""/>  
-</div>  
-
-# Hi there 👋, I'm Bobby!
-## About Me 
+# Hi there 👋, I'm Bobby!  
 📖 I'm a current undergrad at the University of Michigan, seeking a bachelors degree in Computer Science.  
 🚀 I love anything to do with space travel and hope to set foot on Mars someday.  
 🏃 When I'm not programming, I'm probably running. Currently, I'm trying to run a sub 15 minute 5K.  
