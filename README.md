@@ -12,6 +12,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="" width=50 height=50/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="" width=50 height=50/>
 </div>
-
-## My Stats
-[![My stats](https://github-readme-stats.vercel.app/api?username=bobby-palmer)](https://github.com/bobby-palmer/github-readme-stats)
