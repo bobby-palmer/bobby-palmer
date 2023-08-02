@@ -8,6 +8,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="" width=50 height=50/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="" width=50 height=50/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="" width=50 height=50/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="" width=50 height=50/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="" width=50 height=50/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="" width=50 height=50/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="" width=50 height=50/>
