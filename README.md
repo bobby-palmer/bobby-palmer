@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Bobby!  
 📖 I'm a current undergrad at the University of Michigan, seeking a bachelors degree in Computer Science.  
-🌱 In my spare time, I'm learning Rust 🦀  
-🚀 I love anything to do with space travel and hope to set foot on Mars someday.  
+🌱 In my spare time, I'm learning Rust 🦀    
 🏃 When I'm not programming, I'm probably running. Currently, I'm trying to run a sub 15 minute 5K.  
 ## 🛠️ Languages and Tools
 <div id="tools">
