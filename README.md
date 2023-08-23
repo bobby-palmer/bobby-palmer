@@ -12,4 +12,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="" width=50 height=50/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="" width=50 height=50/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="" width=50 height=50/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Sympy_logo.svg" alt="" width=50 height=50/>
 </div>
